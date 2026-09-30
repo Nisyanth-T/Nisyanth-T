@@ -3,7 +3,7 @@
 
 I'm a Computer Engineering student at the University of Waterloo focused on embedded systems, firmware, and low-level software.
 
-I enjoy building and debugging software close to the hardware, with experience in C/C++, RTOS, Linux kernel development, device drivers, ARM systems, and hardware communication protocols.#
+I enjoy building and debugging software close to the hardware, with experience in C/C++, RTOS, Linux kernel development, device drivers, ARM systems, and hardware communication protocols.
 <div align="center"><img src="WORM.svg"></div>
 
 ---
