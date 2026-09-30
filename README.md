@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I'm a student at the University of Waterloo. I love experimenting with new technologies and building interesting things with cool people.
-#
+
+I'm a Computer Engineering student at the University of Waterloo focused on embedded systems, firmware, and low-level software.
+
+I enjoy building and debugging software close to the hardware, with experience in C/C++, RTOS, Linux kernel development, device drivers, ARM systems, and hardware communication protocols.#
 <div align="center"><img src="WORM.svg"></div>
 
 ---
